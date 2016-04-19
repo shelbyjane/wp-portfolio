@@ -1,2 +1,4 @@
 # wp-portfolio
-Customized WordPress site for my portfolio
+Customized WordPress portfolio site
+
+Currently housed at shelbyoyer.wordpress.com
